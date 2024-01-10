@@ -1,4 +1,4 @@
-# bharatIntern-task-1
+# Portfolio
 -----It is a simple and clean website-----
 
 The structure of this portfolio website:
